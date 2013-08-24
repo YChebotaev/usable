@@ -1,0 +1,7 @@
+{
+  "name": "usable",
+  "version": "0.0.3",
+  "dependencies": {
+    "sift": ">=0.0.12"
+  }
+}
